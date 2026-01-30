@@ -4,7 +4,7 @@
 ## 1. Project Description
 An exploratory data analysis project examining relationships between borrower characteristics and loan attributes using Python-based EDA and SQL queries.
 
-This project was a collaboration with [Harmandeep Singh](https://github.com/harmandeep2993/harmandeep2993)
+This project was a collaboration with [Harmandeep Singh](https://github.com/harmandeep2993), his repo can be found [here](https://github.com/harmandeep2993/loan-borrower-eda-project)
 
 ## 2. Dataset Description
 - **Source:** [Predicting Loan Payback](https://www.kaggle.com/competitions/playground-series-s5e11/data) from kagglehub
